@@ -1,0 +1,92 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "firstName": "Terry",
+            "lastName": "Medhurst",
+            "age": 50,
+            "gender": "male",
+            "bloodGroup": "A-",
+            "height": 189,
+            "weight": 75.4,
+            "address": "1745 T Street Southeast, Washington, 20020, DC",
+            "conditions": "Diabeties, Low BP"   
+            
+        },
+        {
+            "id": 2,
+            "firstName": "Sheldon",
+            "lastName": "Quigley",
+            "age": 28,
+            "gender": "male",
+            "bloodGroup": "O+",
+            "height": 187,
+            "weight": 74,
+            "address": "6007 Applegate Lane, Louisville, 40219, KY",
+            "conditions": "Low BP" 
+        },
+        {
+            "id": 3,
+            "firstName": "Terrill",
+            "lastName": "Hills",
+            "age": 38,
+            "gender": "male",
+            "bloodGroup": "A-",
+            "height": 200,
+            "weight": 105.3,
+            "address": "560 Penstock Drive, Grass Valley, 95945, CA",
+            "conditions": "Diabeties, Arthritis" 
+        },
+        {
+            "id": 4,
+            "firstName": "Miles",
+            "lastName": "Cummerata",
+            "age": 49,
+            "gender": "male",
+            "bloodGroup": "B+",
+            "height": 157,
+            "weight": 95.9,
+            "address": "150 Carter Street, Manchester, 06040, CT",
+            "conditions": "Low BP" 
+        },
+        {
+            "id": 5,
+            "firstName": "Mavis",
+            "lastName": "Schultz",
+            "age": 38,
+            "gender": "male",
+            "bloodGroup": "O+",
+            "height": 188,
+            "weight": 106.3,
+            "address": "2721 Lindsay Avenue, Louisville, 40206, KY",
+            "conditions": "Arthritis" 
+        },
+        {
+            "id": 6,
+            "firstName": "Alison",
+            "lastName": "Reichert",
+            "age": 21,
+            "gender": "female",
+            "bloodGroup": "A+",
+            "height": 149,
+            "weight": 105.7,
+            "address": "18 Densmore Drive, Essex, 05452, VT",
+            "conditions": "Cholestrol" 
+        },
+        {
+            "id": 7,
+            "firstName": "Oleta",
+            "lastName": "Abbott",
+            "age": 31,
+            "gender": "female",
+            "bloodGroup": "B-",
+            "height": 172,
+            "weight": 78.1,
+            "address": "637 Britannia Drive, Vallejo, 94591, CA",
+            "conditions": "Cholestrol, High BP" 
+        }            
+    ],
+    "total": 7,
+    "skip": 0,
+    "limit":10
+}
