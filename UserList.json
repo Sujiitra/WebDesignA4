@@ -10,7 +10,7 @@
             "height": 189,
             "weight": 75.4,
             "address": "1745 T Street Southeast, Washington, 20020, DC",
-            "conditions": "Diabeties, Low BP"   
+            "conditions": "Diabetes, Low BP"   
             
         },
         {
@@ -35,7 +35,7 @@
             "height": 200,
             "weight": 105.3,
             "address": "560 Penstock Drive, Grass Valley, 95945, CA",
-            "conditions": "Diabeties, Arthritis" 
+            "conditions": "Diabetes, Arthritis" 
         },
         {
             "id": 4,
